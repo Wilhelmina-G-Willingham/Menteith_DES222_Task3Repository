@@ -7,9 +7,11 @@ body
 {
     font-size: xx-large;
 }
-#button
+#fetchButton
 {
     height: auto;
+    width: auto;
+    font-size: xx-large;
 }
 #map 
 { 
